@@ -332,8 +332,8 @@ VBox([widgets.Label('Diversity'),
 # In[149]:
 
 
-get_ipython().system('pip install voila')
-get_ipython().system('jupyter serverextension enable voila --sys-prefix')
+get_ipython().system('!pip install voila')
+get_ipython().system('!jupyter serverextension enable voila --sys-prefix')
 
 
 # In[ ]:
