@@ -18,7 +18,6 @@ dependencies:
   - ipyvolume
   - scipy
   - voila
-  - jupyter serverextension enable voila --sys-prefix
   - numpy
   - psutil
   - toolz
