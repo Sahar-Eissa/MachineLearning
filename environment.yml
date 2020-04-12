@@ -1,0 +1,30 @@
+name: media-environment
+channels:
+  - conda-forge
+dependencies:
+  - fastai2
+  - graphviz 
+  - ipywidgets 
+  - matplotlib 
+  - nbdev>=0.2.12 
+  - pandas 
+  - scikit_learn
+  - azure-cognitiveservices-search-imagesearch
+  - utils
+  - Pillow
+  - webp
+  - bqplot
+  - ipympl
+  - ipyvolume
+  - scipy
+  - voila
+  - jupyter serverextension enable voila --sys-prefix
+  - numpy
+  - psutil
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
+  - dask
